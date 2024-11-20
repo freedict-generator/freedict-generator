@@ -1,0 +1,54 @@
+h1 {
+    color: #202020;
+    text-align: center;
+    font-family: Georgia, Times New Roman, Times, serif;
+    margin-bottom: 0;
+}
+div.github {
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+span.github {
+    color: #a0a0a0;
+}
+a.github {
+    color: #808080;
+    text-decoration: none;
+}
+a.github:hover {
+    text-decoration: underline;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    font-family: Segoe UI Mono, Liberation Mono, Menlo, Monaco, Consolas, monospace;
+    font-size: 11px;
+    font-weight: normal;
+}
+td {
+    border: 1px solid #f8f8f8;
+    width: 13px;
+    height: 13px;
+    min-width: 13px;
+}
+td.valid {
+    cursor: pointer;
+    border: 1px solid #e0e0e0;
+}
+td.valid:hover {
+    background-color: #f8f8f8;
+}
+td.valid.selected {
+    border: 1px solid #00a0e9;
+    background-color: #e1f0ff;
+}
+div.search {
+    text-align: center;
+    margin-top: 10px;
+}
+label {
+    font-size: 13px;
+}

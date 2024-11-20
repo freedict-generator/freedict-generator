@@ -1,0 +1,25 @@
+h3 {
+    font-size: 18px;
+}
+span.pron {
+    font-size: 15px;
+    color: blue;
+}
+b {
+    font-size: 15px;
+}
+span.pos {
+    font-size: 15px;
+    color: maroon;
+}
+p.quote {
+    font-size: 15px;
+    margin: 0;
+}
+p.def {
+    color: dimgray;
+    font-size: 13px;
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 5px;
+}
